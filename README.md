@@ -1,5 +1,7 @@
 Code along in lesson w/ own CSS to learn React forms and data flow.
 
+............
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
